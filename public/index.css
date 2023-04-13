@@ -37,6 +37,10 @@
 	.logo-wrapper h1 {
 		color: white;
 	}
+	
+	.logo-wrapper h2 {
+		color: white;
+	}
 
 	#uv-error-code {
 		color: rgb(255, 255, 255);
